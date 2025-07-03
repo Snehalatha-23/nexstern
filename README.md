@@ -128,19 +128,3 @@ This project is licensed under the MIT License.
 🧠 “Innovation isn’t just about having ideas — it’s about building them.”
 — Sneha Latha
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ Final Step
-
-After pasting this into your `README.md`, run:
-
-```bash
-git add README.md
-git commit -m "📄 Personalized README by Snehalatha"
-git push
-Then check your GitHub repo:
-👉 https://github.com/Snehalatha-23/nexstern
